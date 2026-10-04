@@ -557,7 +557,8 @@ async function topluIndir(
     islemGoren++;
 
     onProgress?.(i + 1, records.length, r);
-    await new Promise((res) => setTimeout(res, delayMs));
+    // 1000+(500~1500)ms
+    await new Promise((res) => setTimeout(res, delayMs + Math.floor(Math.random() * 1000) + 500));
   }
 
   return { hatalar, durduruldu: false, yapilan: islemGoren };

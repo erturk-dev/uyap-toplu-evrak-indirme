@@ -3,7 +3,8 @@ import { defineConfig } from 'wxt';
 export default defineConfig({
   manifest: {
     name: 'UYAP Toplu İndirme',
-    version: '0.1.0',
+    description: "UYAP portallarındaki evrakları tek tıkla, düzenli ve toplu olarak bilgisayarınıza indirin.",
+    version: '1.0.0',
     permissions: ['downloads'],
     host_permissions: ['https://*.uyap.gov.tr/*'],
     browser_specific_settings: {

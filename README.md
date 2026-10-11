@@ -17,8 +17,9 @@ Eklenti; evrakları tek bir ekranda daha rahat arama, sütunlara göre sıralama
 
 Eklentiyi tarayıcınıza resmi mağazalardan tek tıkla ve güvenle kurabilirsiniz:
 
-* [Chrome Web Mağazası'ndan Yükle](#TODO-CHROME-LINK)
-* [Firefox Add-ons'tan Yükle](#TODO-FIREFOX-LINK)
+* [Chrome Web Mağazası'ndan Yükle](https://chromewebstore.google.com/detail/imdjechafhbnhpfnhcilphbjbklgfeng?utm_source=github)
+* [Firefox Add-ons'tan Yükle](https://addons.mozilla.org/tr/firefox/addon/uyap-toplu-indirme/?utm_source=github)
+* [Microsoft Edge için Yükle](https://chromewebstore.google.com/detail/imdjechafhbnhpfnhcilphbjbklgfeng?utm_source=github)
 
 ## 🚀 Kullanım Şekli
 

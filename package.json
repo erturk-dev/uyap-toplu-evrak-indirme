@@ -1,8 +1,8 @@
 {
-  "name": "wxt-starter",
-  "description": "manifest.json description",
+  "name": "UYAP Toplu İndirme",
+  "description": "UYAP portallarındaki evrakları tek tıkla, düzenli ve toplu olarak bilgisayarınıza indirin.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",

@@ -7,7 +7,7 @@ export default defineConfig({
     permissions: ['downloads'],
     host_permissions: ['https://*.uyap.gov.tr/*'],
     browser_specific_settings: {
-      gecko: { id: 'uyap-toplu@ornek.dev', strict_min_version: '128.0' },
+      gecko: { id: 'uyap-toplu@dev.erturk', strict_min_version: '128.0' },
     },
   },
   
